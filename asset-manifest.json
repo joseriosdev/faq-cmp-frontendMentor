@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.4a18c622.css",
-    "main.js": "/repository-name/static/js/main.d8355551.js",
-    "static/js/787.dfb2338c.chunk.js": "/repository-name/static/js/787.dfb2338c.chunk.js",
-    "static/media/illustration.svg": "/repository-name/static/media/illustration.fe928f9c476ef6d332672b3ab38268fd.svg",
-    "index.html": "/repository-name/index.html",
-    "static/media/icon-arrow-down.svg": "/repository-name/static/media/icon-arrow-down.852fa301a0e795e07c5966b1c156025f.svg",
-    "main.4a18c622.css.map": "/repository-name/static/css/main.4a18c622.css.map",
-    "main.d8355551.js.map": "/repository-name/static/js/main.d8355551.js.map",
-    "787.dfb2338c.chunk.js.map": "/repository-name/static/js/787.dfb2338c.chunk.js.map"
+    "main.css": "/faq-cmp-frontendMentor/static/css/main.4a18c622.css",
+    "main.js": "/faq-cmp-frontendMentor/static/js/main.83071105.js",
+    "static/js/787.dfb2338c.chunk.js": "/faq-cmp-frontendMentor/static/js/787.dfb2338c.chunk.js",
+    "static/media/illustration.svg": "/faq-cmp-frontendMentor/static/media/illustration.fe928f9c476ef6d332672b3ab38268fd.svg",
+    "index.html": "/faq-cmp-frontendMentor/index.html",
+    "static/media/icon-arrow-down.svg": "/faq-cmp-frontendMentor/static/media/icon-arrow-down.852fa301a0e795e07c5966b1c156025f.svg",
+    "main.4a18c622.css.map": "/faq-cmp-frontendMentor/static/css/main.4a18c622.css.map",
+    "main.83071105.js.map": "/faq-cmp-frontendMentor/static/js/main.83071105.js.map",
+    "787.dfb2338c.chunk.js.map": "/faq-cmp-frontendMentor/static/js/787.dfb2338c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a18c622.css",
-    "static/js/main.d8355551.js"
+    "static/js/main.83071105.js"
   ]
 }
